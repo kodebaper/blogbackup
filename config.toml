@@ -1,0 +1,29 @@
+baseURL = "http://mazzempong.github.io/"
+languageCode = "en-US"
+title = "Kodebaper - Newbie Programming dan ngobrol produktif"
+theme = "salak"
+
+DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+disqusShortname = "YOUR_DISQUS_SHORT_NAME"
+googleAnalytics = "UA-XXXXXXXXX-X"
+paginate = 4
+
+[Params]
+  description = "Belajar Programming bareng Kodebaper"
+  subtitle = "Kodebaper - Newbie Programming dan ngobrol produktif"
+  logo = "/images/fixlog.png"
+  favicon = "/images/favicon.ico"
+  comments = true
+
+[Author]
+  name = "Dimas Setiyadi"
+  website = "https://twitter.com/dimtech2"
+
+
+
+
+
+
+
+
